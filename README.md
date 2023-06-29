@@ -6,9 +6,9 @@
 
 [2.1 规模效应](./02.1.规模效应.md)
 
-[3 StrategyforProduct](./03.Strategy\ for\ Product.md)
+[3 StrategyforProduct](./03.StrategyforProduct.md)
 
-[4 StrategyforOperation](./04.Strategy for Operation.md)
+[4 StrategyforOperation](./04.StrategyforOperation.md)
 
 [5 需求](./05.需求(Needs).md)
 
